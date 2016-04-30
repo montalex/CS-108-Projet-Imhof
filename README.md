@@ -1,2 +1,4 @@
 CS-108-Projet-Imhof
-Drawing maps from XML files
+===================
+
+Drawing maps from XML & OSM files
